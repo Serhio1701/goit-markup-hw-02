@@ -67,10 +67,11 @@ body {
   letter-spacing: 0.04em;
   color: #fff;
   background: #4d5ae5;
+  cursor: pointer;
 }
 .button:hover,
 .button:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 .head {
   font-weight: 500;
@@ -87,7 +88,7 @@ body {
   color: #434455;
 }
 .section-team {
-  background: #f4f4fd;
+  background: #ffffff;
 }
 
 .team {
@@ -101,14 +102,6 @@ body {
 }
 .team-foto {
   background: #ffffff;
-}
-.name {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #2e2f42;
 }
 .position {
   font-weight: 400;
@@ -155,7 +148,7 @@ body {
 .logo-descr {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.17;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
