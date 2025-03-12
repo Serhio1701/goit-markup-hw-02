@@ -10,9 +10,9 @@ a {
 }
 .header-logo {
   background: #fff;
-  width: 115px;
-  height: 24px;
-  padding: 24px 76px 24px 156px;
+  width: 1440px;
+  height: 72px;
+  display: inline;
 }
 .web-logo {
   font-family: "Raleway", sans-serif;
