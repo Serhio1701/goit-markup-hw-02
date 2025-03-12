@@ -10,11 +10,6 @@ a {
 }
 .header-logo {
   background: #fff;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  flex-direction: row;
-  gap: 0px;
   width: 115px;
   height: 24px;
   padding: 24px 76px 24px 156px;
