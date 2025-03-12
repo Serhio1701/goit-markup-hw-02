@@ -43,7 +43,11 @@ a {
   color: #2e2f42;
 }
 .navigation {
-  display: inline;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: row;
+  gap: 40px;
   width: 261px;
   height: 24px;
   padding: 24px 332px 24px 0;
