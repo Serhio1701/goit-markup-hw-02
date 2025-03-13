@@ -4,6 +4,7 @@ body {
   color: #434455;
   width: 1440px;
   height: 3300px;
+  margin: 0;
 }
 a {
   text-decoration: none;
