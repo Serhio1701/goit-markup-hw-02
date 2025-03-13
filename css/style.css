@@ -4,7 +4,7 @@ body {
   color: #434455;
   width: 1440px;
   height: 3300px;
-  margin: 0;
+  margin: 0px;
 }
 a {
   text-decoration: none;
@@ -51,6 +51,7 @@ a {
   width: 261px;
   height: 24px;
   padding: 24px 0px 24px 347px;
+  margin-top: 0px;
 }
 .link {
   font-weight: 500;
