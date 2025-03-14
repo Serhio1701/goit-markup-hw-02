@@ -2,29 +2,8 @@ body {
   background: #fff;
   font-family: "Roboto", sans-serif;
   color: #434455;
-  width: 1440px;
-  height: 3300px;
-  margin: 0px;
-}
 a {
   text-decoration: none;
-}
-.header-logo {
-  background: #fff;
-  width: 1440px;
-  height: 72px;
-  display: flex;
-  flex-direction: row;
-}
-.logo {
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  flex-direction: row;
-  gap: 0px;
-  width: 115px;
-  height: 24px;
-  padding: 24px 0px 24px 156px;
 }
 .web-logo {
   font-family: "Raleway", sans-serif;
@@ -43,17 +22,6 @@ a {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2e2f42;
-}
-.navigation {
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
-  flex-direction: row;
-  gap: 40px;
-  width: 261px;
-  height: 24px;
-  padding: 24px 0px 24px 347px;
-  margin-top: 0px;
 }
 .link {
   font-weight: 500;
