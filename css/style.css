@@ -70,8 +70,12 @@ a {
 }
 .contacts-title {
   font-style: normal;
+}
+.contacts-group {
   padding-left: 940px;
   gap: 40px;
+  display: flex;
+  flex-direction: row;
 }
 .contacts {
   font-weight: 400;
