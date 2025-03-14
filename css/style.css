@@ -46,7 +46,7 @@ a {
 }
 .navigation {
   display: flex;
-  align-items: flex-end;
+  align-items: flex-start;
   justify-content: flex-start;
   flex-direction: row;
   gap: 40px;
@@ -70,6 +70,8 @@ a {
 }
 .contacts-title {
   font-style: normal;
+  padding-left: 940px;
+  gap: 40px;
 }
 .contacts {
   font-weight: 400;
