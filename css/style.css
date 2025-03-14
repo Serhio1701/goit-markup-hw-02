@@ -13,6 +13,8 @@ a {
   background: #fff;
   width: 1440px;
   height: 72px;
+  display: flex;
+  flex-direction: row;
 }
 .logo {
   display: flex;
